@@ -1,0 +1,52 @@
+.logo{
+	font-size: 6em;
+	margin-top: 109px;
+}
+
+.altura{
+	height: 663px;
+}
+
+.input{
+	width: 650px;
+	height: 50px;
+	margin-top: 40px;
+	border: 1px solid #D8D8D8;
+	border-radius: 30px;
+}
+
+.g{
+	color: #418CD8;
+}
+
+.o{
+	color: #EA3739;
+}
+
+.amarelo{
+	color: #E8CD06;
+}
+
+.l{
+	color: #58A447;
+}
+
+.botao{
+	background-color: #F2F2F2;
+	border-color: #F2F2F2;
+	border-radius: 5px;
+}
+
+footer{
+	background-color: #F2F2F2;
+	border: 1px solid #D8D8D8;
+	padding: 5px;
+}
+
+
+#drop{
+	width: 300px;
+	margin-top: 50px;
+	box-shadow: 0px 0px 8px gray;
+
+}
